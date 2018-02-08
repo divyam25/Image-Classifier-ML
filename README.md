@@ -6,6 +6,9 @@ In this exponentially advancing world, lots of big-data is created every second.
 
 Here we will be implementing ML models namely logistic regression, KNN, and SVMs to train and identify images, and ultimately come up with a best fitting model. 
 
+Team - The Uncanny Vectors
+Members - Divyam Srivastava (U17EC083)
+          Rishabh Sharma    (U17EC096)
 Dataset used -- CIFAR-10 (Kaggle)
 
 
